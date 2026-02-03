@@ -1,0 +1,15 @@
+
+```{ojs}
+types_opts = FileAttachment("data/types_opts.csv").csv({ typed: true })
+```
+
+
+::: {.ojs-table}
+
+```{ojs}
+Inputs.table(types_opts, {
+  rows: 20
+})
+```
+
+:::
