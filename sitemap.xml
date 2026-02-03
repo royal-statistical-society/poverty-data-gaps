@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/gap-types-definitions.html</loc>
-    <lastmod>2026-02-03T19:56:27.677Z</lastmod>
-  </url>
-  <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/index.html</loc>
-    <lastmod>2026-02-03T19:56:27.735Z</lastmod>
-  </url>
-  <url>
     <loc>https://royal-statistical-society.github.io/poverty-data-gaps/about.html</loc>
-    <lastmod>2026-02-03T19:56:27.681Z</lastmod>
+    <lastmod>2026-02-03T20:06:12.109Z</lastmod>
   </url>
   <url>
     <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/filters.html</loc>
-    <lastmod>2026-02-03T19:56:27.672Z</lastmod>
+    <lastmod>2026-02-03T20:06:12.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/index.html</loc>
+    <lastmod>2026-02-03T20:06:12.112Z</lastmod>
+  </url>
+  <url>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/gap-types-definitions.html</loc>
+    <lastmod>2026-02-03T20:06:12.109Z</lastmod>
   </url>
 </urlset>
