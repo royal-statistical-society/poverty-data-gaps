@@ -13,6 +13,13 @@ This interactive explorer:
 * Commit to GitHub, and it will automatically re-deploy.
 * The data from airtable will not update when only editing the text.
 
+### Adding a new page
+
+* To add a new tab, create a new file called `page.qmd` where `page` is whatever you want the URL to be. For an example, look at `about.qmd`.
+* Update the list of tabs in the `_quarto.yml` file (around line 25-28).
+* In the `page.qmd` file, add information such as the page title to the YAML block at the top (the bit in between the `---`). Beneath the YAML block, add any Markdown text you wish.
+* You can also add raw HTML if you need to. See the [Quarto documentation](https://quarto.org/docs/authoring/markdown-basics.html#raw-content) for an example of adding an iframe for e.g. embedding an external visualisation.
+
 ## Updating the data
 
 * Make any required changes to the airtable data.
