@@ -2,10 +2,16 @@
 title: "Methodology"
 ---
 
-We’ve taken a broad view of poverty, in line with the Joseph Rowntree Foundation’s [definition](https://www.jrf.org.uk/what-is-poverty): “When a person’s resources (mainly their material resources) are not sufficient to meet their minimum needs (including social participation).” We also take a broad view of what defines a data gap, as outlined on the Taxonomy page \[LINK\]. Overall, our approach is informed by the RSS’s vision for public statistics.
+We’ve taken a broad view of poverty, in line with the Joseph Rowntree Foundation’s [definition](https://www.jrf.org.uk/what-is-poverty): “When a person’s resources (mainly their material resources) are not sufficient to meet their minimum needs (including social participation).” We also take a broad view of what defines a data gap, as outlined on the [Taxonomy](Taxonomy.qmd) page. Overall, our approach is informed by the [RSS’s vision for public statistics](https://rss.org.uk/RSS/media/File-library/Policy/2024/Public-statistics-full-report-June-2024.pdf).
 
 Initially, we identified preliminary data gaps by collating several hundred poverty-related publications by major third-sector organisations published since 2020. Given the volume of sources, for each source, we fed each of the reports into an LLM (Open AI’s GPT 4o and GPT 5 models accessible via Chat GPT) with instructions to extract quotes or other information pertaining to data gaps.
 
 Each extracted piece of information was then checked by a human researcher to verify that the information was accurate and relevant to our project. That process produced an initial set of gaps that has been translated to this explorer. However, as this is intended to be a living, crowd-sourced tool, more gaps will be added over time via submissions to our form, which will be manually checked by an RSS researcher. Updates to this tool will happen periodically going forward.
 
 [Add a new data gap](https://airtable.com/appCGMtdXOaqhWh4y/pagmTyuvNXMeVZMMS/form){.btn .btn-quarto target="_blank"}
+
+::: grid
+::: {.g-col-12 .g-col-md-12 }
+![](assets/img/combined-logos.png)
+:::
+:::

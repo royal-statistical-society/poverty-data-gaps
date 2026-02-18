@@ -2,7 +2,7 @@
 title: "Taxonomy"
 ---
 
-When categorising data gaps for this project, we rely on a modified version of a taxonomy developed by [Climate Change AI](https://www.climatechange.ai/dev/datagaps/info#taxonomy-of-data-gaps). Note that any particular gap may span multiple categories, and the boundaries between them are not always clear cut.
+When categorising data gaps for this project, we rely on a modified version of a taxonomy developed by [Climate Change AI](https://www.climatechange.ai/dev/datagaps/info#taxonomy-of-data-gaps). Note that any particular gap may span multiple categories, and the boundaries between them are not always clear.
 
 | Category | Description | Example |
 |----------------|-------------------------------|-------------------------|
@@ -17,3 +17,9 @@ When categorising data gaps for this project, we rely on a modified version of a
 | Wish | Is desired data not collected at all? If collected, is it collated in a useful way? | “X data on Y topic is not currently collected.” |
 
 [Add a new data gap](https://airtable.com/appCGMtdXOaqhWh4y/pagmTyuvNXMeVZMMS/form){.btn .btn-quarto target="_blank"}
+
+::: grid
+::: {.g-col-12 .g-col-md-12 }
+![](assets/img/combined-logos.png)
+:::
+:::
