@@ -10,6 +10,18 @@ Each extracted piece of information was then checked by a human researcher to ve
 
 [Add a new data gap](https://airtable.com/appCGMtdXOaqhWh4y/pagmTyuvNXMeVZMMS/form){.btn .btn-quarto target="_blank"}
 
+Each row in the explorer represents one data gap.  Information about each gap is given in the columns: 
+
+* Name: a headline statement of what the data gap is. 
+* Type of Data Gap: one or more categories assigned to the data gap following a gaps taxonomy.  See the [Taxonomy](Taxonomy.qmd) page for more information about the categories. 
+* Data Sources: the data source(s) to which the gap pertains.  Where the gap pertains to a lack of data or non-existent data, this is marked as “non-existent”. 
+* Topics: one or more topic areas relevant to poverty to which the gap relates. 
+* Link: further detail about the gap, including a link to the relevant source (where applicable).
+
+You can find more information about the gaps, including links to the source where the gap was identified, a quote from that source, and the research questions it was trying to answer (where applicable), by clicking on the “Details” button for each gap.  The “Reports” tab organises the gaps by the sources that were used when collating them. 
+
+
+
 ::: grid
 ::: {.g-col-12 .g-col-md-12 }
 ![](assets/img/combined-logos.png)
