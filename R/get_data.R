@@ -62,7 +62,7 @@ data_gaps_table <- data_gaps_data |>
   mutate(row_id = row_number()) |>
   rowwise() |>
   mutate(Link = glue("<button type='button' class='btn' id='{row_id}'>Details</button>")) |>
-  select(Gap = `Name`, Sources, Topics, Type, Link,
+  select(Name, Sources, Topics, Type, Link,
     Headline, Questions = `Research Questions`, Impact,
     Report = `Report Title`, Author, Date, URL, Topics_Text
   ) |>
@@ -80,7 +80,7 @@ reports_data <- reports |>
 
 gaps_lookup <- reports_data |>
   mutate(
-    Gap_Text = glue("<strong>{Gap}</strong><p><b>Type of Data Gap: </b>{Type}<br><b>Sources: </b>{Sources} <br><b>Topics: </b>{Topics}</p>")
+    Gap_Text = glue("<strong>{Name}</strong><p><b>Type of Data Gap: </b>{Type}<br><b>Sources: </b>{Sources} <br><b>Topics: </b>{Topics}</p>")
   ) |>
   select(airtable_record_id, Gap_Text) |>
   group_by(airtable_record_id) %>%
