@@ -1,8 +1,24 @@
 ---
 title: "Poverty Data Gaps"
 ---
+This data explorer has been produced as part of the [Royal Statistical Society](https://rss.org.uk/) and [Centre for Public Data’s](https://www.centreforpublicdata.org/) research into poverty data gaps in the UK, funded by the [Joseph Rowntree Foundation Insight Infrastructure](https://insightinfrastructure.co.uk/) team.  
+
+We intend for the explorer to be a living tool that will help those at the forefront of anti-poverty research and intervention share data gaps they encounter in the course of their work.  To that end, we ask interested individuals and organisations to fill out our form, where they can tell us about specific issues they’ve had with the datasets they use for poverty research. 
+
+Each row in the explorer represents one data gap.  Information about each gap is given in the columns: 
+
+* Headline: a headline statement of what the data gap is. 
+* Type of Data Gap: one or more categories assigned to the data gap following a gaps taxonomy.  See the Taxonomy page for more information about the categories. 
+* Data Sources: the data source(s) to which the gap pertains.  Where the gap pertains to a lack of data or non-existent data, this is marked as “non-existent”. 
+* Topics: one or more topic areas relevant to poverty to which the gap relates. 
+
+You can find more information about the gaps, including links to the source where the gap was identified, a quote from that source, and the research questions it was trying to answer (where applicable), by clicking on the “Details” button for each gap.  The “Reports” tab organises the gaps by the sources that were used when collating them. 
+
+We encourage anyone who makes use of data relating to poverty in the UK to submit information about gaps they have encountered.  Please do so by completing this form: 
+[Add a new data gap](https://airtable.com/appCGMtdXOaqhWh4y/pagmTyuvNXMeVZMMS/form){target="_blank" .btn .btn-quarto}
 
 {{< include OJS/filters.qmd >}}
+
 
 ::: {.panel-tabset}
 

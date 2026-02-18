@@ -1,20 +1,16 @@
 ---
-title: "About"
+title: "About the Project"
 ---
 
-This data explorer has been produced as part of the [Royal Statistical Society](https://rss.org.uk){target="_blank"} and [Centre for Public Data](https://www.centreforpublicdata.org){target="_blank"}'s ongoing research into poverty data gaps in the UK. It draws on desk research that looked through >300 publications from civil society organisations that were flagged as having some relevance to poverty research  This document has fed into the findings of our interim summary report for our project, available [here](https://rss.org.uk/RSS/media/File-library/Policy/2025/Final-Version-Poverty-Data-Gaps-Interim-Summary-Report.pdf){target="_blank"}, which outlines the methodology used for extracting data gaps from publications.
+An overview of the project’s aims is available on the RSS website. Final outputs from this project are expected in March 2026. Please note that anything in this document is subject to change as the project progresses. Further additions, corrections, and expansions are therefore likely. We welcome corrections and contributions from interested readers. 
 
-An overview of the project's aims is available [on the RSS website](https://rss.org.uk/news-publication/news-publications/2025/general-news/rss-launches-new-project-on-poverty-data-gaps/){target="_blank"}. Final outputs from this project are expected in March 2026. Please note that anything in this document is subject to change as the project progresses. Further additions, corrections, and expansions are therefore likely. We welcome corrections and contributions from interested readers.
+It draws on desk research that looked through >300 publications from civil society organisations that were flagged as having some relevance to poverty research. This document has fed into the findings of our interim summary report for our project, available [here](https://rss.org.uk/news-publication/news-publications/2025/general-news/rss-launches-new-project-on-poverty-data-gaps/), which outlines the methodology used for extracting data gaps from publications. 
 
-If you have any comments or queries, or if you would like to contribute to our research by highlighting poverty data gaps in your research area that you believe we should be aware of, please contact Dakota Langhals ([d.langhals@rss.org.uk](mailto:d.langhals@rss.org.uk)), RSS Policy Researcher, or the RSS policy inbox ([policy@rss.org.uk](mailto:policy@rss.org.uk)).
-
-::: {.callout-note collapse="true" icon=false}
-
-## Types of data gaps
-
-{{< include OJS/gap-types-definitions.qmd >}}
-
-:::
+If you have experience working with data that relate to poverty or adjacent subjects, we welcome your contributions to this tool. Please complete our form below to contribute to our research by highlighting poverty data gaps in your research area that you believe we should be aware of. 
 
 [Add a new data gap](https://airtable.com/appCGMtdXOaqhWh4y/pagmTyuvNXMeVZMMS/form){target="_blank" .btn .btn-quarto}
+
+If you have any comments or queries, please contact Dakota Langhals ([d.langhals@rss.org.uk](mailto:d.langhals@rss.org.uk)), RSS Policy Researcher, or the RSS policy inbox ([policy@rss.org.uk](mailto:policy@rss.org.uk)).
+
+
 

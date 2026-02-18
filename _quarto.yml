@@ -24,8 +24,12 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
+      - text: About the Project
         href: about.qmd
+      - text: Taxonomy
+        href: Taxonomy.qmd
+      - text: Methodology
+        href: methodology.qmd
 
 format:
   html:
