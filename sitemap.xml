@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/about.html</loc>
-    <lastmod>2026-02-18T18:03:21.349Z</lastmod>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/gap-types-definitions.html</loc>
+    <lastmod>2026-04-14T12:24:42.400Z</lastmod>
   </url>
   <url>
     <loc>https://royal-statistical-society.github.io/poverty-data-gaps/LICENCE.html</loc>
-    <lastmod>2026-02-18T18:03:21.349Z</lastmod>
+    <lastmod>2026-04-14T12:24:42.400Z</lastmod>
   </url>
   <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/gap-types-definitions.html</loc>
-    <lastmod>2026-02-18T18:03:21.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/index.html</loc>
-    <lastmod>2026-02-18T18:03:21.351Z</lastmod>
-  </url>
-  <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/filters.html</loc>
-    <lastmod>2026-02-18T18:03:21.349Z</lastmod>
-  </url>
-  <url>
-    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/methodology.html</loc>
-    <lastmod>2026-02-18T18:03:21.351Z</lastmod>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/about.html</loc>
+    <lastmod>2026-04-14T12:24:42.400Z</lastmod>
   </url>
   <url>
     <loc>https://royal-statistical-society.github.io/poverty-data-gaps/Taxonomy.html</loc>
-    <lastmod>2026-02-18T18:03:21.349Z</lastmod>
+    <lastmod>2026-04-14T12:24:42.400Z</lastmod>
+  </url>
+  <url>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/methodology.html</loc>
+    <lastmod>2026-04-14T12:24:42.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/index.html</loc>
+    <lastmod>2026-04-14T12:24:42.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://royal-statistical-society.github.io/poverty-data-gaps/OJS/filters.html</loc>
+    <lastmod>2026-04-14T12:24:42.400Z</lastmod>
   </url>
 </urlset>
